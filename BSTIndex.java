@@ -2,6 +2,11 @@
  THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
  CODE WRITTEN BY OTHER STUDENTS. Caroline Zhang
  */
+ 
+ // hw description: http://www.mathcs.emory.edu/~cs171000/hw/hw5/hw5.htm
+ // starter code: http://www.mathcs.emory.edu/~cs171000/hw/hw5/IndexTester.java
+ //               http://www.mathcs.emory.edu/~cs171000/hw/hw5/MovieInfo.java
+ // data files: http://www.mathcs.emory.edu/~cs171000/hw/hw5/data/
 
 public class BSTIndex {
     
